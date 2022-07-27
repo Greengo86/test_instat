@@ -1,0 +1,3 @@
+city - Осло, with id - 3143244, state_weather - облачно с прояснениями, temp - 20.52 grad
+city - Лондон, with id - 2643743, state_weather - пасмурно, temp - 19.75 grad
+city - Мадрид, with id - 3117735, state_weather - ясно, temp - 33.87 grad
