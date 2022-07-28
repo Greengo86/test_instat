@@ -1,6 +1,7 @@
-from mudule_parse.custom_request import CustomRequest
 
 # this secret key! It must be in env variables. It's only tests fot instat
+from module_parse.custom_request import CustomRequest
+
 API_KEY = '97de9c699d9b29dcd47fa95436c89380'
 
 
